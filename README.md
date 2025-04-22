@@ -25,9 +25,11 @@ Include the commands used in the Experiment.
 ## OUTPUT
 ### REG NUMBER: 212223040154
 ### NAME: PRIDEESH M
+
+![Screenshot 2025-04-22 135524](https://github.com/user-attachments/assets/773e25c1-4154-4a13-a14d-c2bfe79369f6)
+
 ![Screenshot 2025-04-22 133456](https://github.com/user-attachments/assets/181d47e9-3aea-48a4-848a-c7f3f2e39aac)
 
-![Screenshot (63)](https://github.com/user-attachments/assets/070c37e3-dc20-4056-80a8-a15933880198)
 
 
 
